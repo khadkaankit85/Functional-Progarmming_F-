@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "L0ykdbtKpDXPjWl75Czs9IdHuLVaW+0cLRN7EI2/ySUmhMNxnEZFUmqwy+fhvUBcgQbxc3eqXcTPqnsf/EziNw==",
+  "success": true,
+  "projectFilePath": "/home/khadka_angkit/Computer Programming/F#/HelloWorld/HelloWorld.fsproj",
+  "expectedPackageFiles": [
+    "/home/khadka_angkit/.nuget/packages/fsharp.core/8.0.102/fsharp.core.8.0.102.nupkg.sha512"
+  ],
+  "logs": []
+}dotnet ru
